@@ -197,10 +197,6 @@ header {
 }
 
 /* 投票页的css */
-.vote-whole {
-
-}
-
 .vote-header-con {
     width: 100%;
 }
@@ -428,9 +424,6 @@ header {
     background-size: 100% 400%;
 }
 
-/*.vote-head:link +.vote-hint-type{*/
-/*height: 4vw;*/
-/*}*/
 .vote-head-name {
     background-color: #f5c97b;
     font-size: 4vw;
@@ -552,25 +545,17 @@ header {
 }
 
 .result-footer-col-left button {
-    /*width: 40vw;*/
-    /*height: 10vw;*/
     background-color: #f66f6f;
 
 }
 
 .result-footer-col-right button {
-    /*width: 40vw;*/
-    /*height: 10vw;*/
     background-color: #fbb435;
 }
 
 .result-main {
     background-color: #29bde0;
     margin-top: 10vw;
-}
-
-.result-this-time {
-    /*border: solid;*/
 }
 
 .result-win-icon-con {
@@ -622,10 +607,6 @@ header {
     width: 100%;
 }
 
-.result-good-con div {
-    /*margin: 0 auto;*/
-}
-
 .result-good-row {
     /*border: solid;*/
     margin-right: 0;
@@ -644,7 +625,6 @@ header {
     padding-right: 0;
     font-size: 5.5vw;
     color: #ffc865;
-    /*text-align: center;*/
 }
 
 .result-good-col-word span {
